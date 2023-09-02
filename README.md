@@ -1,2 +1,1 @@
-# STRIPS
-sffssfsf
+
